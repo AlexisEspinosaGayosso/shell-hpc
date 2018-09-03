@@ -262,7 +262,7 @@ $ ls
 > file's disk space right away.
 {: .callout}
 
-Let's re-create that file
+Let's re-create that file in thesis
 and then move up one directory to `/home/username/data-shell` using `cd ..`:
 
 ~~~
@@ -271,7 +271,7 @@ $ pwd
 {: .language-bash}
 
 ~~~
-//home/username/data-shell/thesis
+/home/username/data-shell/thesis
 ~~~
 {: .output}
 
